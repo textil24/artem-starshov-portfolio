@@ -571,7 +571,7 @@ export const benefits_3 = [
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
     link: 'https://drive.google.com/drive/folders/1iGFDD3H_UvTK6qML8pj3P_14Zq9y0SPJ'
-  },  
+  },
   {
     id: "16",
     title: "Прикладные информационные технологии",
@@ -612,7 +612,92 @@ export const benefits_3 = [
   },
 ];
 
-export const benefits_4 = [];
+export const benefits_4 = [
+  {
+    id: "0",
+    title: "IT-рекрутмент",
+    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    backgroundUrl: "./src/assets/benefits/card-1.svg",
+    iconUrl: benefitIcon1,
+    imageUrl: benefitImage2,
+    link: 'https://drive.google.com/drive/folders/1py2vWtHWzokxaf2pbS02OoZ6l5FtDuEI'
+  },
+  {
+    id: "1",
+    title: "Английский",
+    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    backgroundUrl: "./src/assets/benefits/card-2.svg",
+    iconUrl: benefitIcon2,
+    imageUrl: benefitImage2,
+    light: true,
+    link: 'https://drive.google.com/drive/folders/1ZkVN6kbpQyH6t1Tnsc_FoOtfXdvRjzGd'
+  },
+  {
+    id: "2",
+    title: "Мировые информационные ресурсы и цифровые библиотеки",
+    text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+    backgroundUrl: "./src/assets/benefits/card-3.svg",
+    iconUrl: benefitIcon3,
+    imageUrl: benefitImage2,
+    link: 'https://drive.google.com/drive/folders/1kId9aPxua2J4YkMOYDPJeaLLyxowWucc'
+  },
+  {
+    id: "3",
+    title: "Информационные технологии оценки персонала",
+    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    backgroundUrl: "./src/assets/benefits/card-4.svg",
+    iconUrl: benefitIcon4,
+    imageUrl: benefitImage2,
+    light: true,
+    link: 'https://drive.google.com/drive/folders/1jKX0MEaaELky8kb6k9_KgSZyl_GvVpR2'
+  },
+  {
+    id: "4",
+    title: "Курсовая работа",
+    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    backgroundUrl: "./src/assets/benefits/card-5.svg",
+    iconUrl: benefitIcon1,
+    imageUrl: benefitImage2,
+    link: 'https://drive.google.com/drive/folders/1PsZc0P8EXScUXTweSEOF4fpCbnVWceDk'
+  },
+  {
+    id: "5",
+    title: "Пакеты прикладных программ для статистической обработки и анализа данных",
+    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    backgroundUrl: "./src/assets/benefits/card-6.svg",
+    iconUrl: benefitIcon2,
+    imageUrl: benefitImage2,
+    link: 'https://drive.google.com/drive/folders/1kfGTrj_I4D3HQxyOxFMiQOS7hv6ZSdZi'
+  },
+  {
+    id: "10",
+    title: "Практика",
+    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    backgroundUrl: "./src/assets/benefits/card-1.svg",
+    iconUrl: benefitIcon1,
+    imageUrl: benefitImage2,
+    link: 'https://drive.google.com/drive/folders/1MvFWrzBJS1yEJtvwp6u1aPDy93mFtjIl'
+  },
+  {
+    id: "11",
+    title: "Програмирование",
+    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    backgroundUrl: "./src/assets/benefits/card-2.svg",
+    iconUrl: benefitIcon2,
+    imageUrl: benefitImage2,
+    light: true,
+    link: 'https://drive.google.com/drive/folders/1mcAHMmW8YJS9zt0N7YvHTj7ceMjAK4O3'
+  },
+  {
+    id: "12",
+    title: "Социальные и профессиональные вопросы информатики и ИТ",
+    text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+    backgroundUrl: "./src/assets/benefits/card-3.svg",
+    iconUrl: benefitIcon3,
+    imageUrl: benefitImage2,
+    link: 'https://drive.google.com/drive/folders/1KX3utYv5qMGvzbWEdlOdTdypNpIiVf5N'
+  },
+];
 
 export const socials = [
   {
