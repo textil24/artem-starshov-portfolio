@@ -225,7 +225,7 @@ const Benefits = () => {
             <div className="flex flex-wrap gap-10 mb-10">
               {benefits_4.map((item) => (
                 <a
-                  href='https://www.google.com/intl/ru_ru/drive/'
+                  href={item.link}
                   className="block relative p-0.5 bg-no-repeat bg-[length:100%_100%] md:max-w-[24rem]"
                   style={{
                     cursor: 'pointer',
